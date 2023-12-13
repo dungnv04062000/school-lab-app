@@ -1,0 +1,21 @@
+.select-option {
+    width: 100%;
+}
+
+.group-btn {
+    align-items: flex-end;
+
+    button {
+        padding: 10px 30px;
+    }
+
+    .btn-joinclass {
+        float: right;
+    }
+
+    .btn-filter {
+        background-color: #ADADAD;
+        border: none;
+        color: white;
+    }
+}

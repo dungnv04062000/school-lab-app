@@ -1,0 +1,26 @@
+.teacher-detail-student {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 2%;
+
+    .title-detail {
+        font-weight: 800;
+        font-size: 30px;
+    }
+
+    .detail-student {
+        margin: 5% 0 5% 0;
+
+        h3 {
+            font-size: 18px;
+            font-weight: 700;
+        }
+    }
+
+    .avatar-img {
+        width: 50%;
+        height: auto;
+        justify-content: center;
+        align-items: center;
+    }
+}

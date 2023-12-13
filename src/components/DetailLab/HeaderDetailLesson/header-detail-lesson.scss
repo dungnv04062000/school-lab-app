@@ -1,0 +1,22 @@
+.header-detail-lesson {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    .ant-upload-list {
+        height: 90px;
+        width: 200px;
+        overflow-y: auto;
+    }
+
+    a {
+        color: white;
+    }
+}
+
+.ant-statistic-content-value {
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: gray;
+    color: white;
+}

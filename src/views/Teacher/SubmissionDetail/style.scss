@@ -1,0 +1,22 @@
+.evaluate-submission {
+  margin: 30px 5%;
+}
+
+.answer {
+  min-height: 500px;
+}
+
+.submission-content {
+  border: 1px solid #adadad;
+  padding: 10px 20px;
+  min-height: 200px;
+}
+
+.attachment {
+  font-size: 20px;
+  transition: all 0.2s linear;
+
+  &:hover {
+    color: blue;
+  }
+}

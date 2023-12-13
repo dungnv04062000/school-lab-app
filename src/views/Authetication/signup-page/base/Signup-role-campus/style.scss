@@ -1,0 +1,38 @@
+.sign-up {
+  .signup__logo-abc {
+    background: linear-gradient(50deg, #edd7ff 10%, #d8e7ff 70%);
+    text-align: center;
+    height: 100vh;
+  }
+}
+
+.signup__form-data {
+  padding-top: 3%;
+  background-color: white;
+
+  h3 {
+    text-align: center;
+    margin: 20px;
+  }
+
+  .radio-option {
+    padding: 7px;
+  }
+
+  button {
+    padding: 10px 20px;
+  }
+}
+
+/* 
+responsive
+----------
+*/
+@media only screen and (max-width: 991px) {
+}
+
+@media only screen and (max-width: 767px) {
+  .signup__logo {
+    display: none;
+  }
+}

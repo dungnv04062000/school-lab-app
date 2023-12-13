@@ -1,0 +1,11 @@
+.support-detail-wrapper {
+  strong {
+    font-size: 15px;
+    line-height: 2;
+  }
+}
+.support-request {
+  .ant-input[disabled] {
+    color: #666 !important;
+  }
+}

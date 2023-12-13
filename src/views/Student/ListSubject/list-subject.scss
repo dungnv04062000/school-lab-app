@@ -1,0 +1,26 @@
+.pagination {
+  // justify-content: center;
+  margin: 5% 40% 5% 40%;
+}
+
+.select-option {
+  width: 100%;
+}
+
+.group-btn {
+  align-items: flex-end;
+
+  .btn-joinclass {
+    float: right;
+  }
+
+  .btn-filter {
+    background-color: #adadad;
+    border: none;
+    color: white;
+  }
+}
+
+.subjects-wrapper {
+  margin: 50px 5%;
+}

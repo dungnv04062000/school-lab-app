@@ -1,0 +1,4 @@
+export const LESSONS_TABLE_ROW_NUMBER = 10;
+export const SUBMISSIONS_TABLE_ROW_NUMBER = 10;
+export const SUPPORT_TABLE_ROW_NUMBER = 10;
+export const NOTES_TABLE_ROW_NUMBER = 10;

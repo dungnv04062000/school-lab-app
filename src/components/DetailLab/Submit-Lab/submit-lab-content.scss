@@ -1,0 +1,32 @@
+.submit-lab-content {
+  border: 1px solid lightgray;
+  margin-bottom: 15px;
+
+  .content {
+    padding: 10px 20px;
+  }
+
+  .icon-submit {
+    font-size: 30px;
+    padding: 10px;
+    margin: 5px;
+    border-right: 2px solid lightgray;
+    cursor: pointer;
+  }
+
+  .ant-upload-list {
+    width: 90%;
+    display: inline-flex;
+    overflow-x: auto;
+  }
+}
+
+.warning {
+  font-style: italic;
+  color: red !important;
+  font-weight: 550;
+}
+
+.editor {
+  width: 100%;
+}

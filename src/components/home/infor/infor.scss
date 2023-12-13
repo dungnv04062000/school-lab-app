@@ -1,0 +1,13 @@
+.inforBlock {
+  background: linear-gradient(90deg, #e1f3ff, #edd7ff, #cae4ff, #cdbcff);
+  padding: 50px 5%;
+}
+
+.join-image {
+  display: flex;
+  justify-content: center;
+  img {
+    width: 100%;
+    max-width: 500px;
+  }
+}

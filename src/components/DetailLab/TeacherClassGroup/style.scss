@@ -1,0 +1,16 @@
+.ant-upload.ant-upload-drag {
+  height: 250px !important;
+  margin: 20px auto;
+}
+
+.create-template {
+  margin-top: 15px;
+  color: rgb(22, 149, 233) !important;
+  font-style: italic;
+  cursor: pointer;
+  transition: all 0.2s linear;
+
+  &:hover {
+    color: rgb(8, 87, 139) !important;
+  }
+}

@@ -1,0 +1,21 @@
+.pageforbidden {
+  text-align: center;
+
+  img {
+    width: 100%;
+    min-width: 200px;
+    max-width: 1000px;
+  }
+
+  h1 {
+    font-size: 50px;
+    font-family: "Rubik Dirt", cursive;
+  }
+
+  .text {
+    font-size: 18px;
+    padding: 0 10px;
+    font-family: "Noto Sans Mono", monospace;
+    margin-top: 15px;
+  }
+}

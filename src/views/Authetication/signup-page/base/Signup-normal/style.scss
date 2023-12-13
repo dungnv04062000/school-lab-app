@@ -1,0 +1,23 @@
+.signup-data-form-normal {
+  width: 65%;
+  margin: 30px auto;
+
+  .ant-picker-large {
+    width: 100%;
+  }
+
+  .radio-option {
+    padding: 7px;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .signup-data-form-normal {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .signup-data-form-normal {
+    width: 90%;
+  }
+}
